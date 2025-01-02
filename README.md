@@ -105,5 +105,5 @@ Implemented RL algorithms such as REINFORCE, A2C, and PPO for the Hopper environ
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 🐦 [Twitter](https://twitter.com/YourHandle)
 -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-valenti-58910320a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-valenti10/)
 
