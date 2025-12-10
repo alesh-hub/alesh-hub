@@ -28,9 +28,7 @@ I’m driven to explore diverse technological frontiers and transform what I lea
   - Deep Reinforcement Learning  
   - Deep Learning applied to IoT  
   - Deep Learning applied to radar data
-- **Ongoing Work:**  
-  - **SAR-Based Oil Spill Detection:** Applying segmentation algorithms to identify oil spills from satellite Synthetic Aperture Radar imagery.  
-  - **Voice-Controlled IoT Systems:** Automating sensor data collection and cloud uploads with voice commands, focusing on edge optimization.  
+
 - **Open to Collaboration:** I'm always eager to tackle new problems and explore innovative solutions. Feel free to reach out!
 
 ---
@@ -38,7 +36,6 @@ I’m driven to explore diverse technological frontiers and transform what I lea
 ## **Projects**
 
 ### **Semantic Segmentation for SAR-Based Oil Spill Detection**  
-*(Group project, currently in development)*
 
 **Description:**  
 Utilizing advanced segmentation methods for Sentinel-1 SAR (Synthetic Aperture Radar) imagery.  
@@ -53,7 +50,6 @@ Utilizing advanced segmentation methods for Sentinel-1 SAR (Synthetic Aperture R
 ---
 
 ### **Voice-Controlled IoT System**  
-*(Group project, currently in development)*
 
 **Description:**  
 A voice-activated temperature and humidity monitoring system deployed on a Raspberry Pi.  
